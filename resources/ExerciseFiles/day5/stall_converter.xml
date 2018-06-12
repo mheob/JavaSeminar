@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stall>
+  <animal name="Schaf_1">
+    <weight>247</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schwein_2">
+    <weight>337</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Schaf_3">
+    <weight>281</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Kuh_4">
+    <weight>741</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Hund_5">
+    <weight>85</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Kuh_6">
+    <weight>61</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_7">
+    <weight>232</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schwein_8">
+    <weight>128</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Hund_9">
+    <weight>2</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Schaf_10">
+    <weight>13</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Kuh_11">
+    <weight>166</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_12">
+    <weight>166</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schaf_13">
+    <weight>222</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Hund_14">
+    <weight>71</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Hund_15">
+    <weight>94</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Schwein_16">
+    <weight>276</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Kuh_17">
+    <weight>99</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Kuh_18">
+    <weight>723</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_19">
+    <weight>62</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Hund_20">
+    <weight>36</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Schwein_21">
+    <weight>35</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Hund_22">
+    <weight>94</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Schwein_23">
+    <weight>176</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Schwein_24">
+    <weight>178</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Hund_25">
+    <weight>84</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Hund_26">
+    <weight>9</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Kuh_27">
+    <weight>725</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_28">
+    <weight>235</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schwein_29">
+    <weight>280</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Schaf_30">
+    <weight>209</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Kuh_31">
+    <weight>506</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_32">
+    <weight>10</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Kuh_33">
+    <weight>689</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_34">
+    <weight>254</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Kuh_35">
+    <weight>40</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Hund_36">
+    <weight>63</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Hund_37">
+    <weight>26</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Kuh_38">
+    <weight>724</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Kuh_39">
+    <weight>784</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Kuh_40">
+    <weight>157</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Hund_41">
+    <weight>26</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Kuh_42">
+    <weight>558</weight>
+    <type>de.shd.day5.animals.Cow</type>
+  </animal>
+  <animal name="Schaf_43">
+    <weight>227</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schaf_44">
+    <weight>82</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Schwein_45">
+    <weight>514</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Schaf_46">
+    <weight>257</weight>
+    <type>de.shd.day5.animals.Sheep</type>
+  </animal>
+  <animal name="Hund_47">
+    <weight>6</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Schwein_48">
+    <weight>31</weight>
+    <type>de.shd.day5.animals.Pig</type>
+  </animal>
+  <animal name="Hund_49">
+    <weight>49</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+  <animal name="Hund_50">
+    <weight>80</weight>
+    <type>de.shd.day5.animals.Dog</type>
+  </animal>
+</stall>

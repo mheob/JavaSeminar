@@ -1,0 +1,16 @@
+#container {
+    -fx-background-color: darkgray;
+}
+
+.button, .text-field {
+    -fx-border-color: dimgray;
+}
+
+.button:hover {
+    -fx-background-color: lightgrey;
+}
+
+.text-field {
+    -fx-background-color: black;
+    -fx-text-fill: green;
+}

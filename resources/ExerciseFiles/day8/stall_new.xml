@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stall>
+  <animal name="Schwein_1">
+    <weight>234</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_2">
+    <weight>298</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Hund_3">
+    <weight>10</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_4">
+    <weight>260</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schaf_5">
+    <weight>162</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_6">
+    <weight>50</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Kuh_7">
+    <weight>45</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_8">
+    <weight>101</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_10">
+    <weight>285</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Kuh_11">
+    <weight>112</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_12">
+    <weight>43</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schwein_13">
+    <weight>181</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_14">
+    <weight>80</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schaf_15">
+    <weight>64</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_16">
+    <weight>264</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Hund_17">
+    <weight>84</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_18">
+    <weight>44</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schwein_19">
+    <weight>306</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Hund_21">
+    <weight>61</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_22">
+    <weight>38</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_23">
+    <weight>142</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_24">
+    <weight>66</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_25">
+    <weight>140</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_27">
+    <weight>190</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Hund_28">
+    <weight>201</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_29">
+    <weight>134</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Hund_30">
+    <weight>21</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schaf_31">
+    <weight>38</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_32">
+    <weight>172</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schaf_33">
+    <weight>14</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_34">
+    <weight>88</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_35">
+    <weight>78</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_36">
+    <weight>156</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Kuh_37">
+    <weight>182</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_38">
+    <weight>79</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_39">
+    <weight>330</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_40">
+    <weight>147</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schwein_41">
+    <weight>204</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_42">
+    <weight>165</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_43">
+    <weight>328</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_44">
+    <weight>290</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Schaf_45">
+    <weight>192</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_46">
+    <weight>190</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Kuh_47">
+    <weight>100</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schwein_48">
+    <weight>203</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="Kuh_49">
+    <weight>245</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="Schaf_50">
+    <weight>152</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>MALE</gender>
+  </animal>
+  <animal name="KuhBaby_1">
+    <weight>19</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="KuhBaby_2">
+    <weight>231</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="KuhBaby_3">
+    <weight>77</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="KuhBaby_4">
+    <weight>78</weight>
+    <type>de.shd.day8.animals.Cow</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="HundBaby_1">
+    <weight>84</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="HundBaby_2">
+    <weight>99</weight>
+    <type>de.shd.day8.animals.Dog</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_1">
+    <weight>75</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_2">
+    <weight>44</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_3">
+    <weight>39</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_4">
+    <weight>257</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_5">
+    <weight>202</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_6">
+    <weight>153</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchweinBaby_7">
+    <weight>336</weight>
+    <type>de.shd.day8.animals.Pig</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchafBaby_1">
+    <weight>3</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchafBaby_2">
+    <weight>109</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchafBaby_3">
+    <weight>182</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchafBaby_4">
+    <weight>39</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+  <animal name="SchafBaby_5">
+    <weight>143</weight>
+    <type>de.shd.day8.animals.Sheep</type>
+    <gender>FEMALE</gender>
+  </animal>
+</stall>

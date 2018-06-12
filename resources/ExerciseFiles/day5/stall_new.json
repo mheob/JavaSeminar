@@ -1,0 +1,184 @@
+{
+  "stall": [
+    {
+      "name": "Schaf_1",
+      "weight": 185,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_3",
+      "weight": 47,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schaf_4",
+      "weight": 37,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_5",
+      "weight": 75,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Hund_6",
+      "weight": 88,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schwein_8",
+      "weight": 270,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schaf_9",
+      "weight": 182,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schwein_11",
+      "weight": 79,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schaf_13",
+      "weight": 102,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_14",
+      "weight": 82,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schaf_15",
+      "weight": 296,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_17",
+      "weight": 88,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schaf_19",
+      "weight": 53,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schwein_20",
+      "weight": 181,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schaf_21",
+      "weight": 199,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_22",
+      "weight": 96,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schwein_25",
+      "weight": 246,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Hund_26",
+      "weight": 83,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schwein_28",
+      "weight": 204,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Hund_29",
+      "weight": 81,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Hund_30",
+      "weight": 97,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schaf_31",
+      "weight": 93,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_33",
+      "weight": 15,
+      "type": "de.shd.day5.animals.Dog"
+    },
+    {
+      "name": "Schaf_34",
+      "weight": 206,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_37",
+      "weight": 93,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_38",
+      "weight": 260,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_39",
+      "weight": 22,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_41",
+      "weight": 70,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_42",
+      "weight": 5,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_44",
+      "weight": 108,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schwein_45",
+      "weight": 57,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schwein_46",
+      "weight": 93,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schwein_47",
+      "weight": 216,
+      "type": "de.shd.day5.animals.Pig"
+    },
+    {
+      "name": "Schaf_48",
+      "weight": 299,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Schaf_49",
+      "weight": 263,
+      "type": "de.shd.day5.animals.Sheep"
+    },
+    {
+      "name": "Hund_50",
+      "weight": 100,
+      "type": "de.shd.day5.animals.Dog"
+    }
+  ]
+}

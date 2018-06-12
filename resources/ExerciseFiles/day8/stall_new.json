@@ -1,0 +1,394 @@
+{
+  "stall": [
+    {
+      "gender": "MALE",
+      "name": "Schwein_1",
+      "weight": 234,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_2",
+      "weight": 298,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Hund_3",
+      "weight": 10,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_4",
+      "weight": 260,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_5",
+      "weight": 162,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_6",
+      "weight": 50,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_7",
+      "weight": 45,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_8",
+      "weight": 101,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_10",
+      "weight": 285,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Kuh_11",
+      "weight": 112,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Kuh_12",
+      "weight": 43,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_13",
+      "weight": 181,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_14",
+      "weight": 80,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schaf_15",
+      "weight": 64,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_16",
+      "weight": 264,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Hund_17",
+      "weight": 84,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_18",
+      "weight": 44,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_19",
+      "weight": 306,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Hund_21",
+      "weight": 61,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_22",
+      "weight": 38,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schaf_23",
+      "weight": 142,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schaf_24",
+      "weight": 66,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Kuh_25",
+      "weight": 140,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_27",
+      "weight": 190,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Hund_28",
+      "weight": 201,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_29",
+      "weight": 134,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Hund_30",
+      "weight": 21,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schaf_31",
+      "weight": 38,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_32",
+      "weight": 172,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schaf_33",
+      "weight": 14,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_34",
+      "weight": 88,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_35",
+      "weight": 78,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_36",
+      "weight": 156,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Kuh_37",
+      "weight": 182,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_38",
+      "weight": 79,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_39",
+      "weight": 330,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_40",
+      "weight": 147,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_41",
+      "weight": 204,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_42",
+      "weight": 165,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_43",
+      "weight": 328,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_44",
+      "weight": 290,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_45",
+      "weight": 192,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schwein_46",
+      "weight": 190,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_47",
+      "weight": 100,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "Schwein_48",
+      "weight": 203,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "MALE",
+      "name": "Kuh_49",
+      "weight": 245,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "MALE",
+      "name": "Schaf_50",
+      "weight": 152,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "KuhBaby_1",
+      "weight": 19,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "KuhBaby_2",
+      "weight": 231,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "KuhBaby_3",
+      "weight": 77,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "KuhBaby_4",
+      "weight": 78,
+      "type": "de.shd.day8.animals.Cow"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "HundBaby_1",
+      "weight": 84,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "HundBaby_2",
+      "weight": 99,
+      "type": "de.shd.day8.animals.Dog"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_1",
+      "weight": 75,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_2",
+      "weight": 44,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_3",
+      "weight": 39,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_4",
+      "weight": 257,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_5",
+      "weight": 202,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_6",
+      "weight": 153,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchweinBaby_7",
+      "weight": 336,
+      "type": "de.shd.day8.animals.Pig"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchafBaby_1",
+      "weight": 3,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchafBaby_2",
+      "weight": 109,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchafBaby_3",
+      "weight": 182,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchafBaby_4",
+      "weight": 39,
+      "type": "de.shd.day8.animals.Sheep"
+    },
+    {
+      "gender": "FEMALE",
+      "name": "SchafBaby_5",
+      "weight": 143,
+      "type": "de.shd.day8.animals.Sheep"
+    }
+  ]
+}
